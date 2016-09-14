@@ -1,5 +1,6 @@
-# Git/Github Workshop contributors (sorted alphabetically)
+# Git/Github Workshop Mitwirkende (alphabetisch sortiert)
 
 * **[Raphael Zimmermann](https://www.raphael.li/)**
 
-  * Initial concept (First Version)
+  * Initiales Konzept (Erste Version)
+
