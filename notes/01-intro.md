@@ -8,6 +8,8 @@
 * Tische verschieben
 * Genügend Steckdosen? Eventuell Verlängerungskabel und Verteilstecker besorgen.
 * [Git Cheat Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf) drucken
+* Stick mit Beispielen bereitmachen
+* Stick mit Beispielen an Teilnehmer verteilen
 
 # Begrüssung
 **Folie Git & Github Workshop**

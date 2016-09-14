@@ -31,7 +31,7 @@ Diese Fragen klären wir kurz ein einem Intro - dabei bleiben wir relativ oberfl
 
 ## Git - Kommandozeilen Grundlagen
 In diesem Block lernst du die wichtigsten Git Kommandos kennen. Du lernst, wie man einen Commit macht, durch die
-Versionsgeschichte navigiert, einen alten Zustand wiederherstellt und Änderungen ansieht.
+Versionsgeschichte navigiert. Zudem zeigen wir dir kurz, was für grundlegende Git Funktionen im Alltag hilfreich sind.
 
 (Zeitrahmen 10' Präsentation, 20' Ausprobieren mit kurzen Inputs)
 

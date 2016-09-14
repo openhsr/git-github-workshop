@@ -1,0 +1,17 @@
+body {
+    font-family: 'Open Sans', Arial, sans-serif;
+    background-color: #efefe7;
+}
+
+main {
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+
+aside {
+    float: right;
+}
+
+aside > img {
+    cursor: pointer;
+}
