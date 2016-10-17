@@ -8,7 +8,7 @@ Der Workshop dauert ca. 2 Stunden.
 
 # Warum sollte ich den Workshop besuchen?
 
-In diesem Workshop überwindest du mit unserer Unterstützung die ersten Hürden beim Arbeiten mit Git und GitBub.
+In diesem Workshop überwindest du mit unserer Unterstützung die ersten Hürden beim Arbeiten mit Git und GitHub.
 Wir wollen dir die Hemmschwelle nehmen, damit du unbeschwert zu Open Source und open\HSR Projekten beitragen kannst.
 
 
