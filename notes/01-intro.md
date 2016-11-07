@@ -31,7 +31,7 @@
     - Ihr könnt immer "stop" sagen - dann schalten wir einen Gang zurück oder vor.
     - Pause zwischen den Blöcken oder bei Bedarf - andere Wünsche?
     - Ich werde etwas vorführen, beispielsweise wie man ein Git Repository erstellt. Bitte während diesen Sequenzen zuhören und zuschauen,
-      denn ich werde dazu Konzepte und Hintergründe erläutern. Kurz danach könnt ihr den Vorgestellten Stoff selbst ausprobieren 
+      denn ich werde dazu Konzepte und Hintergründe erläutern. Kurz danach könnt ihr den Vorgestellten Stoff selbst ausprobieren
     - Zu allem vorgeführten bekommt ihr die Code-Listings zum nachschauen
 
 - Es führen viele Wege nach Rom! Dieser Kurs zeigt genau ein Weg (Derjenige, den wir für am einfachsten halten)
@@ -49,8 +49,8 @@
     - VCS protokolliert Änderungen: Damit ist immer klar *was* sich *wann* geändert hat.
     - dies ermöglicht das effiziente vereinen von unterschiedliche Änderungen
     - Kein unbeabsichtigtes Überschreiben möglich
-    - Extremes Beispiel: Linux-Kernel: 
-	- [3'738 Entwickler](http://arstechnica.com/information-technology/2015/02/linux-has-2000-new-developers-and-gets-10000-patches-for-each-version/) (Stand 2015) 
+    - Extremes Beispiel: Linux-Kernel:
+	- [3'738 Entwickler](http://arstechnica.com/information-technology/2015/02/linux-has-2000-new-developers-and-gets-10000-patches-for-each-version/) (Stand 2015)
 	- produzieren [durchschnittlich 3'509 neue Zeilen code PRO TAG!](http://royal.pingdom.com/2012/04/16/linux-kernel-development-numbers/))
 	- Zahlen zum Kernel sind kein Zufall: Da GIT von Torwalds primär für ein Projekt wie den Linux Kernel entworfen wurde
 
@@ -71,7 +71,7 @@ Weitere Gründe:
 ### Zentrale Versionskontrollsysteme
 - Bsp. SVN, CVS
 - Eine gemeinsame "Wahrheit"
-- Mächtige zentrale Administration 
+- Mächtige zentrale Administration
     - Schreibrechte (commit access): Ist eine grosse Hürde bei Open Source Projekten!
 - Die meisten Änderungen passieren auf dem zentralen Server
 - "Single Point of Failure"
@@ -103,10 +103,11 @@ Weitere Gründe:
     - Ohloh: [Aktuell 39%](https://www.openhub.net/repositories/compare)
     - Github: [April 2016: 14 Mio Benutzer](https://en.wikipedia.org/wiki/GitHub)
     - Github: [Mehr als 10 Mio repos (Stand 2013)](https://github.com/blog/1724-10-million-repositories)
+    - Github: [2.2 Mio Aktive Repos und 3.4 Mio Users](http://githut.info/)
 - Git ist dezentral
 - Branching ist einfach & billig (mehr dazu später)
     - Grund warum toll: Weil Features nicht von Anfang an funktionieren!
-- Ist sehr schnell 
+- Ist sehr schnell
 - Skaliert gut (Ausnahme: Blobs)
 
 ## Anmerkung: Git Clients

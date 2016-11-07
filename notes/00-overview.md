@@ -47,9 +47,40 @@ das lokale Repository aktualisieren und Pull-Requests beitragen. Zusätzlich wer
 
 (Zeitrahmen: 10' Präsentation, 20' Ausprobieren mit kurzen Inputs)
 
+## Abgrenzung zu "Konfigurationsmanagement mit Git" in Software Engineering 1
+Versionskontrolle wird im Modul Software Engineering 1 in  zwei Lektionen kurz besprochen. Dabei werden vorallem Gründe Versionskontrolle besprochen.
+In der Vorlesung geht man davon aus, dass man bereits Vorkentnisse hat.
+Im Gegensatz zur Vorlesung tauchtst du in diesem Kurs tief in dies "Philosophie" von Git ein - du verstehts warum gewisse Dinge in Git gelöst sind und tippst nicht einfach kommandos ein ohne genau zu erstehen was passiert.
+
+* Effektive Terminologie (Commit?/Push?/Pull?/Fetch?...)
+* Git ist eines der wichtigsten und mächtigsten Werkzeuge, das auch von den Entwicklern tief verstanden werden soll
+* Fokus auf Grundlagen - stashing, pathsets usw. sind advanced bzw benötigen zuerst ein gutes Verständis vonder git basics
+
+![](https://imgs.xkcd.com/comics/git.png)
 
 ## Ausblick / Weitere Ressource
 Nachdem du nun Basiswissen zu Git und GitHub hast, bekommst du eine Liste von Links auf denen du weiterführende Informationen findest.
 Falls du noch etwas weiteres wissen möchtest, können wir das hier ebenfalls noch besprechen.
 
 (Zeitrahmen: 10' Präsentation)
+
+
+todo:
+https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow
+http://nvie.com/posts/a-successful-git-branching-model/
+http://wiki.hsr.ch/HSRWiki/GitAnDerHsr
+https://hackernoon.com/lesser-known-git-commands-151a1918a60#.jij5ib87v
+
+
+digraph G {
+
+  "Welcome" -> "To"
+  "To" -> "Web"
+  "To" -> "GraphViz!"
+  x [shape=box, fixedsize=True, height=0.35]
+  x -> "GraphViz!"
+}
+
+http://www.webgraphviz.com/
+http://www.graphviz.org/pdf/dotguide.pdf
+>>>>>>> Erweiterungen Rund um Github
