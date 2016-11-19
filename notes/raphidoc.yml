@@ -1,0 +1,20 @@
+version: 1.0
+
+title: Git & Github Workshop Notizen
+subtitle: 1. Durchführung - Herbstsemester 2016
+author: Raphael Zimmermann
+institute: open\HSR
+
+pages:
+    - 00-overview.md
+    - 01-intro.md
+    - 02-git-basics.md
+    - 03-git-branches.md
+    - 04-github.md
+    - 05-outro.md
+
+assets:
+    - images/
+
+# TODO: load from ../theme/ or default
+theme: /home/rzi/Desktop/demo/raphi_theme/

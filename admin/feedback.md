@@ -6,7 +6,7 @@ Der Workshop entsprach meinen Erwartungen?
 
 ▢ mehr oder weniger
 
-▢ Nein
+▢ Gar nicht
 
 Ich würde den Workshop weiterempfehlen?
 
@@ -14,14 +14,7 @@ Ich würde den Workshop weiterempfehlen?
 
 ▢ Nein
 
-Anmerkung:
-_________
-
-_________
-
 Was hat dir gefehlt?
-_________
-
 _________
 
 _________
@@ -29,6 +22,14 @@ _________
 Was war überflüssig?
 _________
 
+_________
+
+Was muss unbedingt beibehalten werden?
+_________
+
+_________
+
+Andere Anmerkungen:
 _________
 
 _________

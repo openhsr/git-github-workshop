@@ -63,24 +63,3 @@ Nachdem du nun Basiswissen zu Git und GitHub hast, bekommst du eine Liste von Li
 Falls du noch etwas weiteres wissen möchtest, können wir das hier ebenfalls noch besprechen.
 
 (Zeitrahmen: 10' Präsentation)
-
-
-todo:
-https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow
-http://nvie.com/posts/a-successful-git-branching-model/
-http://wiki.hsr.ch/HSRWiki/GitAnDerHsr
-https://hackernoon.com/lesser-known-git-commands-151a1918a60#.jij5ib87v
-
-
-digraph G {
-
-  "Welcome" -> "To"
-  "To" -> "Web"
-  "To" -> "GraphViz!"
-  x [shape=box, fixedsize=True, height=0.35]
-  x -> "GraphViz!"
-}
-
-http://www.webgraphviz.com/
-http://www.graphviz.org/pdf/dotguide.pdf
->>>>>>> Erweiterungen Rund um Github

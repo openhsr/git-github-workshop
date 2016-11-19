@@ -1,5 +1,7 @@
 # Git Kommandozeilen Philosophie
 
+_Folie Git Syntax_
+
 Syntax:
 
 ```bash
@@ -8,10 +10,13 @@ git <verb>
 
 Hilfe bekommt man in den Manpages oder plattformübergreifend mit dem `help` Verb
 
+_Wechsel auf Terminal_
+
 ```bash
-$ man git
-$ man git config
+$ git help
 $ git help config
+# Alternativ
+$ man git
 ```
 
 (Schliessen mit `q`, suchen mit `/`,`p` und `n`)
@@ -32,7 +37,7 @@ git config --global user.name "Maria Muster"
 git config --global user.email  "maria.muster@hsr.ch"
 ```
 
-Anmerkung: Diese E-Mail sollte auch auf Github eingerichtet sein, damit Commits korrekt zugeordnet werden können.
+Anmerkung: Gleiche E-Mail wie auf Github (mehrere möglich) -  damit Commits korrekt zugeordnet werden können.
 
 Wir haben hier die Konfiguration von Git angetroffen.
 
@@ -46,7 +51,7 @@ Kurzer Exkurs: Es gibt 3 Level von Einstellungen:
 
 # Projekt Initialisieren
 
-Begriff klären: **Repository**
+Begriff **Repository**
 Enthält Dateien, History und Konfiguration - wird von Git verwaltet
 
 VORSICHT: Ungleich SVN Repository:
@@ -116,6 +121,8 @@ Initialized empty Git repository in /home/rzi/Desktop/examples/.git/
 
 Git definiert drei Haupt-Zustände, in denen sich eine Datei befinden kann:
 
+_Aufzeichen von 3 Stages_
+
 * Working Directory: Neue Dateien (untracked) bzw. geänderte Dateien (modified)
 * Staging (auch Index): Vormerken für den nächsten Commit (Snapshot - dazu gleich mehr)
 * Commit: Fix gespeichert in der "Git-Datenbank"
@@ -180,6 +187,8 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 ```
 
+_Einzeichnen von Add / commit_
+
 Wir können auch ganze Verzeichnisse oder einfach alles mit `git add` stagen:
 
 ```bash
@@ -211,9 +220,10 @@ On branch master
 nothing to commit, working tree clean
 ```
 
-Ein Tipp: Falls ihr etwas gestaged habt, was ihr nicht wollt, dann sagt euch git im Output von "git status", was zu tun ist!
+Ein Tipp: Falls ihr etwas gestaged habt, was ihr nicht wollt, dann sagt euch git im **Output von "git status"**, was zu tun ist!
 
-Nun könnt ihr das selbst ausprobieren!
+➪ Nun könnt ihr das selbst ausprobieren!
+➪ Für die Schnellen: Schaut euch etwas vom "Self Study" an
 
 ### Staging Area = Snapshot
 
@@ -246,7 +256,7 @@ Git add nimmt ein "Snapshot".
 
 Git betrachtet die die beobachteten Daten als eine Reihe von Snapshots eines Mini-Dateisystems. Mit einem Commit wird der Zustand dieses Dateisystems gespeichert.
 
-➪ Darum der "Fotoapparat"
+_Einzeichnen Fotoapparat_
 
 
 ## Sha1 Hashes
@@ -269,34 +279,32 @@ Hier sieht man nur die Kurzversion.
 * Commit Messages: Hauptsache konsistent (Sprache, Form).
     * Empfehlung: Englisch und Präsens im imperativ ("Add new File")
 
-# HEAD
-HEAD: Pointer auf "Wo wir sind" (cat .git/HEAD)
-`The HEAD file is a symbolic reference to the branch you’re currently on. By symbolic reference, we mean that unlike a normal reference, it doesn’t generally contain a SHA-1 value but rather a pointer to another reference.`
-
 ## Fazit
 Wichtig ist, dass alle einen Commit machen können und das Konzept der 3 Zuständer verstanden haben.
 Die nächsten Punkte in diesem Kapitel können je nach stärke der Gruppe weggelassen werden.
 
 ## Weiterführendes (Self-Study)
 
-### Änderungen anzeigen (git diff)
-
-git diff
-git diff --staged
-
-
-### Dateien löschen (git rm)
-
-### Dateien verschieben (git mv)
-
-### Dateien ignorieren (.gitignore)
+* Änderungen anzeigen mit `git diff`
+    ```bash
+    git diff
+    git diff --staged
+    ```
+* Dateien löschen mit `git rm`
+* Dateien verschieben `git mv`
+* Dateien ignorieren `.gitignore`
 
 ### Änderungen verwerfen
+
+* Alle Änderungen, die noch nicht commited ist verwerfen
+
+```bash
 git reset HEAD <file>
+```
 
 ### Git log
-=> git help log
 
+```bash
 git log
 git log
 
@@ -305,33 +313,40 @@ git log 471bdf4...920a4a0
 git log --since="3 days ago"
 git show 471bdf4
 
-
-```
 # Commits, die nur eine Datei betreffen
 git log -- statuten/statuten.tex
 ```
 
-TODO: mächtige beispiele - aber nur zur demo
-(mit q "schliessen")
+### Alte Zustände wiederherstellen
+* Siehe [Reset, Checkout, and Revert](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting/)
 
-## Wiederherstellen
-Siehe [Reset, Checkout, and Revert](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting/)
-
-## Philosophische Frage zum verschieben von Dateien
+### Philosophische Frage zum verschieben von Dateien
 Das Schiff des Theseus
 
 * [Who am I? A philosophical inquiry - Amy Adkins](https://www.youtube.com/watch?v=UHwVyplU3Pg)
 * [Ship of Theseus • GitHub & Git Foundations](https://www.youtube.com/watch?v=qk1UE-9qf0Q)
 
-## Git status short
-(alias)
+## Kompakte Git status Ausgabe
+
+```bash
+# Details nachlesen
+$ git help status
+$ git status --short
+```
 
 ## Git alias
-git config --global alias.l "log --oneline --graph --decorate"
-cat ~/.gitconfig    
+
+```bash
+# Neuer alias hinzufügen
+$ git config --global alias.l "log --oneline --graph --decorate"
+# Wurde in config hinzugefügt?
+$ cat ~/.gitconfig
+# Alias ausprobieren
+$ git l
+```
 
 ## Git add --patch
-Pro Tip: Mit Git-Patch können Änderungen Zeilenweise gestaged werden - damit macht Ihr auch gleich ein Review, bevor ihr comitted.
+Pro Tip: Mit Git-Patch können Änderungen gruppenweise gestaged werden - damit macht Ihr auch gleich ein Review, bevor ihr comitted.
 
 ```bash
 $ # Eie Zeile in der Datei index.html verändern
