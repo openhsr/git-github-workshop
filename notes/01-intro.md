@@ -99,14 +99,15 @@ _Folie Zentrale Versionskontrollsysteme_
 
 ### Dezentrale Versionskontrollsysteme
 _Folie Dezentrale Versionskontrollsysteme_
-- Dezentral = Distributed = Verteilt
-- Bsp. Git, Mercurial, Bazaar
-- Viele "Wahrheiten"
-- Flexibel (ermöglicht unterschiedlichste Workflows)
-- Die **Änderungen passieren lokal** - also theoretisch überall
-- **Offline** arbeiten möglich
-- Alle haben **Schreibrechte** (commit access) - aber für "offizielle Remotes" gelten spezielle Berechtigungen (mehr dazu später)
-- Git ist dezentral!
+
+* Dezentral = Distributed = Verteilt
+* Bsp. Git, Mercurial, Bazaar
+* Viele "Wahrheiten"
+* Flexibel (ermöglicht unterschiedlichste Workflows)
+* Die **Änderungen passieren lokal** - also theoretisch überall
+* **Offline** arbeiten möglich
+* Alle haben **Schreibrechte** (commit access) - aber für "offizielle Remotes" gelten spezielle Berechtigungen (mehr dazu später)
+* Git ist dezentral!
 
 ## Fazit
 - Moderne Software-Entwicklung ohne VCS nicht möglich!

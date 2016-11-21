@@ -108,7 +108,7 @@ $ git log
 
 ## Repetition an der Grafik
 
-![](images/github-overview.svg)
+![](images/github-setup.svg)
 
 # Guithub Workflow
 
