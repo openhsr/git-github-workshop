@@ -48,7 +48,7 @@
     ```
     * Auf der Übersichtsseite des Forks den Branch auswählen
     * Den Branch auswählen und einen neuen Pull-Request starten.
-    ![](github_new_pr.png)
+    ![](images/github_new_pr.png)
     * Ausführliche Beschreibung und Referenzen/Beweggründe notieren
 9. Weiterverfolgen
     * Warten auf Feedback → Benachrichtigung erfolg automatisch per E-Mail.
