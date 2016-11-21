@@ -1,9 +1,9 @@
 # Git/Github Workshop
 In diesem Repository findest du alle Ressourcen zum open\HSR Git/Github Workshop.
 
-Hast du den Kurs besucht und suchst die links? Diese sind in der Datei [admin/links.md](admin/links.md)
-
-Suchst du die Beispiele? [Diese kannst du hier herunterladen](https://raw.githubusercontent.com/openhsr/git-github-workshop/master/examples/git-github-workshop.zip).
+* [Beispiele herunterladen](https://raw.githubusercontent.com/openhsr/git-github-workshop/master/examples/git-github-workshop.zip)
+* [Github Contribution Checkliste](admin/github-contribution-checkliste.md)
+* [Links zum Kurs](admin/links.md)
 
 ## Fragen?
 Wenn du den Kurs besucht hast, dann solltest du grob wissen wo du weitere Informationen findest.
