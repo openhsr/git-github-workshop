@@ -127,6 +127,10 @@ _Aufzeichen von 3 Stages_
 * Staging (auch Index): Vormerken für den nächsten Commit (Snapshot - dazu gleich mehr)
 * Commit: Fix gespeichert in der "Git-Datenbank"
 
+!!! todo
+
+    Anpassung in Grafik: *tracked* → *modified*
+
 Typisches vorgehen:
 
 1. Ich mache eine Änderung
