@@ -21,9 +21,8 @@ Wir wollen dir die Hemmschwelle nehmen, damit du unbeschwert zu Open Source und 
 
 # Inhalt
 
-## Kurz-Intro
-Wozu brauchen wir Versionskontrolle? Warum Git? Und was hat GitHub damit zu tun?
-Diese Fragen klären wir kurz ein einem Intro - dabei bleiben wir relativ oberflächlich und stellen Links zu weiteren Ressourcen zur Verfügung.
+Wozu brauchen wir eine Versionskontrolle? Warum Git? Und was hat GitHub damit zu tun?
+Diese Fragen klären wir kurz an einem Intro - dabei bleiben wir relativ oberflächlich und stellen Links zu weiteren Ressourcen zur Verfügung.
 
 (Zeitrahmen: 10' Präsentation)
 
