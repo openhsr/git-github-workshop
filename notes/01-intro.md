@@ -108,6 +108,7 @@ _Folie Dezentrale Versionskontrollsysteme_
 * **Offline** arbeiten möglich
 * Alle haben **Schreibrechte** (commit access) - aber für "offizielle Remotes" gelten spezielle Berechtigungen (mehr dazu später)
 * Git ist dezentral!
+* Mehr dazu im Github Teoil
 
 ## Fazit
 - Moderne Software-Entwicklung ohne VCS nicht möglich!

@@ -49,6 +49,8 @@ Kurzer Exkurs: Es gibt 3 Level von Einstellungen:
 
 (gleiches Konzept wie Vererbung in der Objektorientierten Programmierung)
 
+Warum muss das eingestellt werden? Diese Daten werden so in die Versionsgeschichte geschrieben. Mehr dazu gleich.
+
 # Projekt Initialisieren
 
 Begriff **Repository**
@@ -99,7 +101,7 @@ $ git config user.name "Demo"
 $ cat .git/config
 ```
 
-Das bedeutet auch, dass wenn dieser Ordner weg ist, ist weiss Git auch nichts mehr:
+Das bedeutet auch, dass wenn dieser Ordner weg ist, weiss Git auch nichts mehr:
 
 ```bash
 $ rm -Rf .git/
