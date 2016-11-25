@@ -31,13 +31,15 @@
     ```
 7. Änderungen umsetzen
     * Fokus auf genau eine Funktion
-    * Sinvolle Commits (und Commit-Messages)
+    * Sinnvolle Commits (und Commit-Messages)
     * Neue Branches (und Pull-Request) für andere Features
     * Änderungen vom upstream (original Projekt) regelmässig (mindestens vor jedem push push) mergen your changes to origin (your fork)
+
     ```bash
     $ git fetch upstream
     $ git rebase upstream/master
     ```
+
 8. Pull-Request erstellen
     * Geht alles noch und sind Guidelines eingehalten?
         * Funktionieren noch alle Tests?
