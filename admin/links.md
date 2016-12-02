@@ -23,6 +23,7 @@
 * [Github Guides](https://guides.github.com/)
 * [Git Website](https://git-scm.com/)
 * [Atlassian Tutorials](https://www.atlassian.com/git/tutorials/)
+* [Oh shit, git!](http://ohshitgit.com/)
 * [Good Resources for Learning Git and GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 * [Git an der HSR](http://wiki.hsr.ch/HSRWiki/GitAnDerHsr)
