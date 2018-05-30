@@ -13,6 +13,7 @@
 ## Cheat Sheets
 * [Git Cheat Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 * [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)
+* [Escape a git mess, step-by-step](http://justinhileman.info/article/git-pretty/)
 
 ## Workflows
 * [How we use Pull Requests to build GitHub](https://github.com/blog/1124-how-we-use-pull-requests-to-build-github)
