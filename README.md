@@ -18,4 +18,4 @@ Die Workshop-Leiter stehen dir bei Fragen natürlich gerne persönlich oder per 
 
 Dieser Workshop wird von GitHub mit Handouts & Swag unterstützt :tada: :heart:
 
-![Github Logo](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png)
+![Github Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png)
