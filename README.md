@@ -4,7 +4,7 @@ In diesem Repository findest du alle Ressourcen zum open\HSR Git/Github Workshop
 * [Beispiele herunterladen](https://raw.githubusercontent.com/openhsr/git-github-workshop/master/examples/git-github-workshop.zip)
 * [Github Contribution Checkliste](admin/github-contribution-checkliste.md)
 * [Weiterführende Links](admin/links.md)
-* [Feedback Formular](https://goo.gl/forms/6FT0sA12kVre9stD2)
+* [Feedback-Formular](https://goo.gl/forms/6FT0sA12kVre9stD2)
 
 ## Nicht vergessen: Student Developer Pack
 
