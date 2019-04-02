@@ -46,16 +46,18 @@ das lokale Repository aktualisieren und Pull-Requests beitragen. Zusätzlich wer
 
 (Zeitrahmen: 10' Präsentation, 20' Ausprobieren mit kurzen Inputs)
 
-## Abgrenzung zu "Konfigurationsmanagement mit Git" in Software Engineering 1
-Versionskontrolle wird im Modul Software Engineering 1 in  zwei Lektionen kurz besprochen. Dabei werden vorallem Gründe Versionskontrolle besprochen.
-In der Vorlesung geht man davon aus, dass man bereits Vorkentnisse hat.
-Im Gegensatz zur Vorlesung tauchtst du in diesem Kurs tief in dies "Philosophie" von Git ein - du verstehts warum gewisse Dinge in Git gelöst sind und tippst nicht einfach kommandos ein ohne genau zu erstehen was passiert.
+## Fokus
+
+In diesem Kurs tauchst du tiefer in die "Philosophie" von Git ein - du verstehts warum gewisse Dinge in Git gelöst sind und tippst nicht einfach kommandos ein ohne genau zu erstehen was passiert.
 
 * Effektive Terminologie (Commit?/Push?/Pull?/Fetch?...)
 * Git ist eines der wichtigsten und mächtigsten Werkzeuge, das auch von den Entwicklern tief verstanden werden soll
-* Fokus auf Grundlagen - stashing, pathsets usw. sind advanced bzw benötigen zuerst ein gutes Verständis vonder git basics
+* Fokus auf Grundlagen - stashing, pathsets usw. sind advanced bzw. benötigen zuerst ein gutes Verständis von den git basics.
 
-![](https://imgs.xkcd.com/comics/git.png)
+![If that doesn't fix it, git.txt contains the phone number of a friend of mine who understands git. Just wait through a few minutes of 'It's really pretty simple, just think of branches as...' and eventually you'll learn the commands that will fix everything.](https://imgs.xkcd.com/comics/git.png)
+
+https://xkcd.com/1597/
+
 
 ## Ausblick / Weitere Ressource
 Nachdem du nun Basiswissen zu Git und GitHub hast, bekommst du eine Liste von Links auf denen du weiterführende Informationen findest.
