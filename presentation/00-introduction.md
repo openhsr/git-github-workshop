@@ -27,16 +27,17 @@
 # Vorbereitung
 <br>
 
-## Git installiert
-## Github Account
+## 📝 Git installiert
+## 📡 Github Account
+## 🧰 Git Shell
 
 ---
 
 # Regeln?
 
-* Fragen? Fragen!
-* Bei unklarheiten: Stop!
-* Pause?
+## ⁉️ Fragen? Fragen!
+## ✋ Bei unklarheiten: Stop!
+## ⏳ Pause?
 
 
 ---
@@ -62,8 +63,6 @@
 
 ---
 # Git
-
-
 
 <img src="res/git-stats.png" />
 
