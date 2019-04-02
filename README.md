@@ -20,6 +20,6 @@ Wie immer geht ein grosses Dankeschön an die [open\HSR Sponsoren](https://www.o
 
 # Mitwirkende
 
-* @raphiz (Initiales Konzept und erste Durchführung)
-* @das-g
-* @fabianhauser
+* [@raphiz](https://github.com/raphiz) (Initiales Konzept und erste Durchführung)
+* [@das-g](https://github.com/das-g)
+* [@fabianhauser](https://github.com/fabianhauser)
