@@ -100,7 +100,7 @@ git pull
 
 ---
 
-# GitHub Flow
+# 🍽️ GitHub Flow
 
 Prozess, wie zusammengarbeitet wird auf GitHub.
 
@@ -112,7 +112,7 @@ Prozess, wie zusammengarbeitet wird auf GitHub.
 4. Erstellen von *Pull Request* mit Änderungen
    <small>vom Fork zum Originalprojekt</small>
 6. Originalprojekt übernimmt / *Merged* den *Pull Request*
-   <small>oder lehnt diesen ab 😢</small>
+   <small>oder erbittet Änderungen /  lehnt diesen ab</small>
 
 ---
 
@@ -129,9 +129,8 @@ Prozess, wie zusammengarbeitet wird auf GitHub.
 
 # 📨 Gästebuch
 
-### ➡️ https://github.com/openhsr/git-github-workshop/
-### ➡️ Fork; `git clone`; ⏩; `git push`; Pull Request
-### ⏩ `git add  guestbook/NameVorname.md`; `git commit`
-```markdown
-**Foo** war hier!
-```
+### ➡️ Fork https://github.com/openhsr/git-github-workshop/
+### ➡️ `git clone`
+### ➡️ `git add  guestbook/NameVorname.md`; `git commit`
+### ➡️ `git push`
+### ➡️ Open Pull Request
