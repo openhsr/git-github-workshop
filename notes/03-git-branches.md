@@ -17,14 +17,6 @@ Dadurch werden ganz **neue Workflows** möglich - darum nutzt diese Funktion unb
 ## Der Master-Branch
 Der Master-Branch ist "by convention" der stabile Zweig. Theoretisch könnte man das beliebig machen - es macht aber Sinn (vorallem auf Github) diesen Branch immer stabil zu halten.
 
-Ein Branch ist nur ein Zeiger (Siehe Explain Git)
-Glaubt ihr mir nicht?
-
-```bash
-cat .git/refs/heads/master
-git show <hash>
-```
-
 ## HEAD
 HEAD: Pointer auf "Wo wir sind" (cat .git/HEAD)
 
@@ -63,6 +55,16 @@ $ git branch
 ```
 
 ➪ Wollt ihr das kurz ausprobieren?
+
+### Hinter den Kulissen: Branches als Zeiger auf Commits
+
+Ein Branch ist nur ein Zeiger (Siehe Explain Git)
+Glaubt ihr mir nicht?
+
+```bash
+cat .git/refs/heads/master
+git show <hash>
+```
 
 ## Änderungen Zusammenfügen
 
