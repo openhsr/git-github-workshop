@@ -28,7 +28,7 @@ git show <hash>
 ## HEAD
 HEAD: Pointer auf "Wo wir sind" (cat .git/HEAD)
 
-`The HEAD file is a symbolic reference to the branch you’re currently on. By symbolic reference, we mean that unlike a normal reference, it doesn’t generally contain a SHA-1 value but rather a pointer to another reference.`
+> The HEAD file is a symbolic reference to the branch you’re currently on. By symbolic reference, we mean that unlike a normal reference, it doesn’t generally contain a SHA-1 value but rather a pointer to another reference.
 
 ## Zwischen Branches wechseln
 
