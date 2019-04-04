@@ -130,7 +130,7 @@ Prozess, wie zusammengarbeitet wird auf GitHub.
 # 📨 Gästebuch
 
 ### ➡️ Fork https://github.com/openhsr/git-github-workshop/
-### ➡️ `git clone`
-### ➡️ `git add  guestbook/NameVorname.md`; `git commit`
+### ➡️ `git clone`; `git checkout guestbook`
+### ➡️ `git add  VornameName.md`; `git commit`
 ### ➡️ `git push`
 ### ➡️ Open Pull Request
