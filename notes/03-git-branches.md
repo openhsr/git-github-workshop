@@ -1,6 +1,6 @@
 # Branching?
 
-_Öffne Explain Git_
+_[Öffne Explain Git im Zen Mode](http://onlywei.github.io/explain-git-with-d3/)_
 
 Konzept "Commit Graph" - Jeder Commit hat ein Parent. (ja eigentlich 2 aber das mal der Einfachheithalber weglassen)
 
