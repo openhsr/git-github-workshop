@@ -1,6 +1,9 @@
 <!-- $theme: default -->
 
 <!-- Presentation made with [Marp](https://yhatt.github.io/marp/) -->
+
+Beispiel-Dateien: https://fh2.ch/git-ws → Zip entpacken
+
 # Git Basics Cheatsheet
 
 ```bash
