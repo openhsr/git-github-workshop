@@ -12,7 +12,7 @@
 * **Git Hosting**
 * **Pull Requests** - mehr dazu später!
 * **Issue Tracker**
-* Website Hosting (Statische Webseiten mit Jekyll)
+* Hosting statischer Webseiten
 * Integration in Drittdienste
   * Bsp. Continous integration mit Travis-CI usw.
 * Vieles, vieles mehr...
