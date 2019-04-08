@@ -10,7 +10,7 @@
 # GitHub bietet...
 
 * **Git Hosting**
-* **Pull Requests** aka "Github Flow" - mehr dazu später!
+* **Pull Requests** - mehr dazu später!
 * **Issue Tracker**
 * Website Hosting (Statische Webseiten mit Jekyll)
 * Integration in Drittdienste
