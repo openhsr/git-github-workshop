@@ -105,7 +105,7 @@ Prozess, wie zusammengarbeitet wird auf GitHub.
 1. *Fork* (=Kopie) vom Originalprojekt auf GitHub anlegen
 2. Änderungen auf *Fork* umsetzen
    1. `git clone <fork>`
-   2. `git add`; `git commit`
+   2. 📝; `git add`; `git commit`
    3. `git push` (zum Fork)
 4. Erstellen von *Pull Request* mit Änderungen
    <small>vom Fork zum Originalprojekt</small>
