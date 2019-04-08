@@ -83,8 +83,8 @@ git help
 # Git Config: Name und E-Mail
 Prüfen, ob folgendes Sinn macht:
 ```bash
-$ git config --global user.name
-$ git config --global user.email
+git config --global user.name
+git config --global user.email
 ```
 
 Falls nicht, bitte korrigieren:
