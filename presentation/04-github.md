@@ -31,7 +31,7 @@
 
 # Exkurs: Protokolle
 
-## HTTP: `https://github.com/openhsr/verein.git`
+## HTTP(S): `https://github.com/openhsr/verein.git`
 
 ## SSH: `git@github.com:openhsr/verein.git`
 
@@ -39,22 +39,22 @@
 
 ---
 
-# Neues Remote & Push
+# Neues Remote einrichten und verwenden
 
+Neues "Remote" erstellen:
 ```bash
-# Mit HTTP:
-git remote add origin https://github.com/user/repo.git
-# oder alternativ mit SSH:
 git remote add origin git@github.com:user/repo.git
 ```
 
+Commits an Remote `origin` schicken:
 ```bash
 git push origin master
 ```
 
 ---
 
-# Clone
+# Bestehendes online-Repo herunterladen
+
 `git help clone`:
 ```bash
 git clone <repository> [<directory>]
@@ -67,7 +67,7 @@ git clone https://github.com/openhsr/verein.git
 
 ---
 
-# Pull
+# Änderungen aus online-Repo herunterladen
 
 ```bash
 git fetch
