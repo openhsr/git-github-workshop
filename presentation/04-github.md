@@ -21,8 +21,6 @@
 
 # Git Remotes
 
-**Remote:** Kopien/Versionen des Git-Repositories, welches (typischerweise) im Internet gehostet ist.
-
 <div style="text-align: center">
   
 ![](../notes/images/github-setup.svg)
