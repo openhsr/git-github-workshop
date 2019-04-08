@@ -15,7 +15,7 @@
 * Hosting statischer Webseiten
 * Integration in Drittdienste
   * Bsp. Continous integration mit Travis-CI usw.
-* Vieles, vieles mehr...
+* Vieles, vieles mehr …
 
 ---
 
