@@ -36,7 +36,7 @@
 # Regeln?
 
 ## ⁉️ Fragen? Fragen!
-## ✋ Bei unklarheiten: Stop!
+## ✋ Bei Unklarheiten: Stop!
 ## ⏳ Pause?
 
 
